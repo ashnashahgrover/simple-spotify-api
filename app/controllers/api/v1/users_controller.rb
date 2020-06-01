@@ -17,3 +17,5 @@ class Api::V1::UsersController < ApplicationController
 end
 
 #I forgot what the controller does
+
+#cannot use query params in POSTMAN because of strong params
